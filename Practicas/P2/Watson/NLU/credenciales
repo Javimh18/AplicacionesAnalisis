@@ -1,0 +1,16 @@
+{
+  "apikey": "-wf8diqQ04TukZMsHIqMubVmNUdadCI_KZUZstIXSIJp",
+  "iam_apikey_description": "Auto-generated for key 4ca009d9-211f-432e-8402-cbcb0825eec0",
+  "iam_apikey_name": "Auto-generated service credentials",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/53a13f091d8740559393a9503624e828::serviceid:ServiceId-e7803dda-78a3-4e7c-86f6-d57e5181d964",
+  "url": "https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/6dea0787-b7c0-496c-b8f4-343edddb8ad9"
+}
+{
+  "apikey": "UoipgA50GqZse4yp-F-Ep9g4Hcilf-ZgzZZmhvuNki9L",
+  "iam_apikey_description": "Auto-generated for key dd7a428a-6659-4e9d-893b-f01d82f8824a",
+  "iam_apikey_name": "Service credentials-1",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Manager",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/53a13f091d8740559393a9503624e828::serviceid:ServiceId-894bafee-08eb-4afa-a398-5281e62cdc1b",
+  "url": "https://api.eu-gb.natural-language-understanding.watson.cloud.ibm.com/instances/6dea0787-b7c0-496c-b8f4-343edddb8ad9"
+}
